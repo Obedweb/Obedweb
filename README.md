@@ -37,3 +37,9 @@ _ᎷᎽ ᏢᎡϴҒᏆᏞᎬ_
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
   </a>
 </p>
+
+
+
+_DEPLOYING,MUSIC DOWNLOADER,SESSION AND OWNER SITE_
+
+<a href='https://hunter-xmd-web.vercel.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20HUNTER%20XMD%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
